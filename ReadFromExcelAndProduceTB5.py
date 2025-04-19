@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import shutil
 
+# This script reads data from an Excel file and generates a VHDL 5th filter testbench
+
 def process_excel_column(excel_file, column, start_row, end_row, sheet_name="Sheet1"):
     """
     Read numeric data from a specific column and row range of an Excel file
