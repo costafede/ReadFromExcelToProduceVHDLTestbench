@@ -1,5 +1,12 @@
 # VHDL Testbench Generator for Reti Logiche Project
 
+## Disclaimer
+
+> **No Warranty of Accuracy**
+>
+> This project is provided *"as is"* without any guarantees or warranties of any kind, either express or implied. While every effort has been made to ensure the correctness and reliability of the content and functionality, i cannot guarantee that it is free from bugs or errors. Use at your own risk.
+
+
 ## Overview
 This repository contains Python scripts that automate the generation of VHDL testbenches for the Reti Logiche course project at Politecnico di Milano. The scripts read filter configuration and test data from Excel files and generate complete VHDL testbench files ready for simulation.
 
